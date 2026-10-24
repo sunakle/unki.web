@@ -1,9 +1,10 @@
 // Экран повторения: вопрос, ответ, оценка, горячие клавиши.
 import * as S from './store.js';
 import * as sched from './sched.js';
-import { h, clear, popupMenu, toast, confirmDialog, fmtNum, FLAGS, FLAG_NAMES } from './ui.js';
+import { h, clear, popupMenu, toast, confirmDialog, fmtNum, icon, FLAGS, FLAG_NAMES } from './ui.js';
 import { renderQA } from './models.js';
 import { cardFrame } from './cardview.js';
+import { ttsSupported, ttsActive, ttsSettings, setTtsSettings, cardSegments, hasInlineTts, speakSegments, speakWithHint, stopSpeech } from './tts.js';
 
 export function renderReview(main, bottom, did, nav) {
   const col = S.C();
@@ -22,12 +23,14 @@ export function renderReview(main, bottom, did, nav) {
       else if (qa.hasType) frame.focusInput();
     },
   });
-  const wrap = h('div', { class: 'review' }, frame.el, star);
+  const speak = h('button', { class: 'tts-fab hidden', title: 'Озвучить (R)', 'aria-label': 'Озвучить', onclick: () => replay() }, icon('speaker', 22));
+  const wrap = h('div', { class: 'review' }, frame.el, star, speak);
   clear(main).append(wrap);
   bottom.className = 'rv';
 
   /* ---------- показ ---------- */
   function loadNext(forceCid) {
+    stopSpeech();
     if (forceCid && col.cards[forceCid]) {
       cur = col.cards[forceCid];
       kind = cur.type === 0 ? 'new' : cur.type === 2 ? 'rev' : 'lrn';
@@ -55,6 +58,27 @@ export function renderReview(main, bottom, did, nav) {
     frame.show(answered ? qa.a : qa.q, qa.css);
     decorate();
     renderBottom();
+    // плавающая кнопка озвучки: только если на карточке нет своих кнопок {{tts …}}
+    speak.classList.toggle('hidden', !(ttsActive() && !hasInlineTts(answered ? qa.a : qa.q) && cardSegments(qa, answered ? 'a' : 'q').length));
+  }
+
+  /* ---------- озвучка ---------- */
+  function replay() {
+    if (!qa) return;
+    if (!ttsSupported()) { speakWithHint([{ text: 'x' }], toast); return; }
+    if (!ttsSettings().enabled) { toast('Озвучка выключена: Настройки → Озвучка'); return; }
+    speakWithHint(cardSegments(qa, answered ? 'a' : 'q'), toast);
+  }
+  function autoplay() {
+    if (!qa || !ttsActive()) return;
+    const st = ttsSettings();
+    if (!(answered ? st.autoA : st.autoQ)) return;
+    const segs = cardSegments(qa, answered ? 'a' : 'q', answered ? 'answer' : 'full');
+    if (segs.length) speakSegments(segs);
+  }
+  function toggleAuto(key) {
+    setTtsSettings({ [key]: !ttsSettings()[key] });
+    toast(ttsSettings()[key] ? 'Автопроизношение включено' : 'Автопроизношение выключено');
   }
 
   function showQuestion() {
@@ -62,6 +86,7 @@ export function renderReview(main, bottom, did, nav) {
     t0 = performance.now();
     render();
     startTimer();
+    autoplay();
   }
 
   function showAnswer() {
@@ -70,6 +95,7 @@ export function renderReview(main, bottom, did, nav) {
     answered = true;
     render(typed);
     if (S.presetOf(cur.did).stopTimer) clearInterval(timerId);
+    autoplay();
   }
 
   function reloadCurrent() {
@@ -124,6 +150,12 @@ export function renderReview(main, bottom, did, nav) {
     popupMenu([
       { label: 'Отменить', shortcut: 'Z', disabled: !S.undoLabel(), onClick: undo },
       { sep: true },
+      ...(ttsSupported() ? [
+        { label: 'Озвучить', shortcut: 'R', onClick: replay },
+        { label: 'Произносить вопрос сам', checked: ttsSettings().autoQ, onClick: () => toggleAuto('autoQ') },
+        { label: 'Произносить ответ сам', checked: ttsSettings().autoA, onClick: () => toggleAuto('autoA') },
+        { sep: true },
+      ] : []),
       { label: 'Отметить запись', shortcut: '*', checked: col.notes[cur.nid].tags.includes('marked'), onClick: actions.mark },
       { label: 'Флажок', submenu: flagsSub },
       { sep: true },
@@ -199,6 +231,7 @@ export function renderReview(main, bottom, did, nav) {
     else if (k === '=') actions.buryNote();
     else if (k === '@') actions.suspend();
     else if (k === '!') actions.suspendNote();
+    else if (k === 'r' || k === 'к') replay();
     else if (k === 'e' || k === 'у') actions.edit();
     else if (k === 'o' || k === 'щ') actions.options();
     else if (k === 'i' || k === 'ш') actions.info();
@@ -211,6 +244,7 @@ export function renderReview(main, bottom, did, nav) {
 
   return () => {
     clearInterval(timerId);
+    stopSpeech();
     document.removeEventListener('keydown', docKey);
     bottom.className = '';
   };

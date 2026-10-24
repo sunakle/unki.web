@@ -36,9 +36,9 @@ POS_RU = {
     'n': 'сущ.', 'v': 'гл.', 'adj': 'прил.', 'adv': 'нареч.', 'prep': 'предлог',
     'phr': 'выражение', 'phr v': 'фразовый гл.', 'conj': 'союз', 'pron': 'мест.', 'interj': 'межд.',
 }
-QFMT = '<div class="word">{{Слово}}</div>\n<div class="pos">{{Часть речи}}</div>'
+QFMT = '<div class="word">{{Слово}} {{tts en_US:Слово}}</div>\n<div class="pos">{{Часть речи}}</div>'
 AFMT = ('{{FrontSide}}\n\n<hr id=answer>\n\n<div class="tr">{{Перевод}}</div>\n'
-        '{{#Пример}}<div class="ex">{{Пример}}</div>{{/Пример}}')
+        '{{#Пример}}<div class="ex">{{Пример}} {{tts en_US:Пример}}</div>{{/Пример}}')
 CSS = """.card {
   font-family: arial;
   font-size: 20px;
