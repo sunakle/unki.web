@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark light">
+  <title>Unki — карточки для запоминания</title>
+  <meta name="description" content="Unki: веб-версия программы для интервальных повторений в стиле Anki. Колоды, карточки, статистика. Данные хранятся в вашем браузере.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232e4db9'/%3E%3Cpath d='M8 9h16v14H8z' fill='none' stroke='white' stroke-width='2'/%3E%3Cpath d='M12 14h8M12 18h5' stroke='white' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/app.css">
+  <script>
+    // тема до отрисовки, чтобы не мигало
+    try {
+      var s = JSON.parse(localStorage.getItem('unki:theme') || '"system"');
+      var dark = s === 'dark' || (s === 'system' && !matchMedia('(prefers-color-scheme: light)').matches);
+      document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <div id="app">
+    <div id="menubar" role="menubar"></div>
+    <nav id="topnav" aria-label="Основная навигация"></nav>
+    <main id="main"></main>
+    <div id="bottombar"></div>
+  </div>
+  <div id="windows"></div>
+  <div id="toasts" role="status" aria-live="polite"></div>
+  <noscript>Для работы Unki нужен JavaScript.</noscript>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
