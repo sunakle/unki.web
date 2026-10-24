@@ -1,0 +1,93 @@
+#level=C1
+#theme=бизнес и экономика
+acquisition|n|приобретение, поглощение|The *acquisition* of the rival firm doubled our market share.
+allocate|v|выделять, распределять|The council *allocated* funds for a new library.
+asset|n|актив, ценное имущество|The company's main *asset* is its brand name.
+audit|n|аудит, проверка отчётности|An external *audit* found several errors in the accounts.
+bankruptcy|n|банкротство|The airline filed for *bankruptcy* last spring.
+benchmark|n|ориентир, эталон|The test sets a new *benchmark* for industry performance.
+boost|v|повышать, стимулировать|Lower interest rates should *boost* spending.
+bureaucracy|n|бюрократия|Setting up a business involves a lot of *bureaucracy*.
+capital|n|капитал|She needed *capital* to start her own business.
+commodity|n|товар, сырьё|Oil is a valuable *commodity* on the world market.
+compensation|n|компенсация|Workers received *compensation* for the injuries.
+consumption|n|потребление|Energy *consumption* has fallen by ten per cent.
+cutback|n|сокращение (расходов)|Budget *cutbacks* forced the school to close its library.
+debt|n|долг|The country is struggling with a huge foreign *debt*.
+deficit|n|дефицит|The government is trying to reduce its budget *deficit*.
+diversify|v|диверсифицировать, расширять ассортимент|The firm *diversified* into renewable energy.
+dividend|n|дивиденд|Shareholders will receive a *dividend* of fifty pence per share.
+downturn|n|спад|The *downturn* in the housing market hit builders hard.
+equity|n|собственный капитал; справедливость|He invested all his savings in company *equity*.
+expenditure|n|расходы, затраты|Government *expenditure* on education has risen.
+exploit|v|эксплуатировать; использовать|Some companies *exploit* cheap labour overseas.
+fluctuate|v|колебаться|Oil prices *fluctuate* from week to week.
+forecast|n|прогноз|The economic *forecast* for next year is gloomy.
+franchise|n|франшиза|She bought a *franchise* of a well-known burger chain.
+fraud|n|мошенничество|He was jailed for tax *fraud*.
+funding|n|финансирование|The project failed to secure enough *funding*.
+gross|adj|валовой, общий|Her *gross* annual income is about forty thousand pounds.
+inflation|n|инфляция|*Inflation* is eating away at people's savings.
+infrastructure|n|инфраструктура|Poor *infrastructure* is holding back the region's development.
+invest|v|инвестировать, вкладывать|They *invested* heavily in new technology.
+investor|n|инвестор|Foreign *investors* are pulling out of the market.
+invoice|n|счёт-фактура, счёт|Please send me an *invoice* for the work.
+liability|n|ответственность; обязательство|The company accepts no *liability* for lost items.
+loan|n|заём, кредит|She took out a *loan* to buy a car.
+lucrative|adj|прибыльный|He left teaching for a more *lucrative* career in banking.
+margin|n|маржа; запас, разница|Profit *margins* are very low in the supermarket business.
+monopoly|n|монополия|The firm held a *monopoly* on the supply of gas.
+mortgage|n|ипотека|They struggled to pay the monthly *mortgage*.
+net|adj|чистый (после вычетов)|The *net* profit was less than expected.
+overdraft|n|овердрафт|My account is already in *overdraft*.
+overheads|n|накладные расходы|Rent and electricity are our main *overheads*.
+portfolio|n|инвестиционный портфель; портфолио|She manages a *portfolio* of shares worth millions.
+procure|v|приобретать, закупать|The agency *procures* medical supplies for hospitals.
+profitable|adj|прибыльный|The shop became *profitable* in its second year.
+quota|n|квота|The country has a *quota* on imported cars.
+recession|n|рецессия, спад|The economy has slipped into *recession*.
+revenue|n|доход, выручка|Advertising brings in most of the website's *revenue*.
+shareholder|n|акционер|*Shareholders* voted against the takeover.
+slump|n|резкий спад|The *slump* in sales forced the firm to cut prices.
+stake|n|доля (в бизнесе); ставка|He holds a ten per cent *stake* in the company.
+stock market|phr|фондовый рынок|The *stock market* fell sharply this morning.
+subsidy|n|субсидия|Farmers receive a *subsidy* from the government.
+surplus|n|излишек, профицит|The country has a large trade *surplus*.
+tariff|n|тариф, пошлина|The government imposed *tariffs* on imported steel.
+bid|n|заявка на торгах; предложение цены|Three firms submitted a *bid* for the contract.
+thrive|v|процветать|Small businesses *thrive* in this part of town.
+trade-off|n|компромисс, обмен одного на другое|There is always a *trade-off* between quality and cost.
+venture|n|предприятие, рискованное начинание|Their joint *venture* in China was a great success.
+volatile|adj|нестабильный, изменчивый|Oil is a *volatile* market.
+wealth|n|богатство|Much of the nation's *wealth* is held by a small elite.
+wholesale|adj|оптовый|They buy *wholesale* and sell at a profit.
+yield|n|доходность; урожай|The bonds offer a high *yield*.
+bargain|n|выгодная покупка|At that price, the car was a real *bargain*.
+budget|n|бюджет|We are working on a tight *budget*.
+cash flow|phr|денежный поток|Late payments caused serious *cash flow* problems.
+consolidate|v|укреплять, объединять|The bank *consolidated* its position in Europe.
+cost-effective|adj|экономически выгодный|Buying in bulk is more *cost-effective*.
+default|v|не выполнить обязательства (по долгу)|The borrower *defaulted* on the loan.
+embezzle|v|присваивать, растрачивать|The accountant *embezzled* thousands from the firm.
+endorse|v|одобрять; рекламировать|The athlete *endorses* a famous brand of trainers.
+feasible|adj|осуществимый, реальный|The plan is *feasible* only if we get more funding.
+fiscal|adj|налоговый, фискальный|The *fiscal* year ends on 31 March.
+hike|n|резкое повышение|A sharp *hike* in rents forced many tenants out.
+leverage|n|рычаг влияния|The union has little *leverage* in the talks.
+merger|n|слияние (компаний)|The *merger* created the largest bank in the country.
+outlay|n|расходы, затраты|The initial *outlay* is high, but you save money later.
+premium|n|страховой взнос; премия|My insurance *premium* goes up every year.
+proceeds|n|выручка, доходы от продажи|The *proceeds* go to charity.
+rebate|n|возврат части платежа, скидка|You may be eligible for a tax *rebate*.
+refund|n|возврат денег|I asked for a *refund* because the product was faulty.
+remittance|n|денежный перевод|Many families depend on *remittances* from relatives abroad.
+sluggish|adj|вялый, медленный|The economy is still *sluggish*.
+stakeholder|n|заинтересованная сторона|We must consult all *stakeholders* before deciding.
+takeover|n|поглощение|The *takeover* was approved by the regulators.
+tycoon|n|магнат|The media *tycoon* owns several newspapers.
+windfall|n|неожиданная прибыль|The tax refund was an unexpected *windfall*.
+bottom line|phr|итог, суть; чистая прибыль|At the end of the day, it's the *bottom line* that counts.
+break even|phr v|выйти на безубыточность|It took three years to *break even*.
+cut corners|phr|экономить на качестве, срезать углы|The builders *cut corners* to save money.
+go under|phr v|разориться, обанкротиться|Many small firms *went under* during the crisis.
+red tape|phr|бюрократическая волокита|There was too much *red tape* involved in getting a licence.

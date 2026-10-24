@@ -1,0 +1,89 @@
+#level=B2
+#theme=общая лексика
+abandon|v|бросать, покидать|The crew had to *abandon* the sinking ship.
+accompany|v|сопровождать|Children must be *accompanied* by an adult.
+accurate|adj|точный, верный|The report gave an *accurate* account of events.
+adjust|v|приспосабливать, регулировать|It took a while to *adjust* to the time difference.
+admit|v|признавать|He *admitted* that he had made a mistake.
+anticipate|v|предвидеть, ожидать|We *anticipate* a large crowd on Saturday.
+apparent|adj|очевидный, явный|It soon became *apparent* that something was wrong.
+approach|n|подход, метод|We need a new *approach* to the problem.
+appropriate|adj|подходящий, уместный|Wear something *appropriate* for the occasion.
+arise|v|возникать|If any problems *arise*, call me immediately.
+assume|v|предполагать|I *assume* you've already read the report.
+attach|v|прикреплять|Please *attach* your CV to the email.
+aware|adj|осведомлённый|Are you *aware* of the risks involved?
+bother|v|беспокоить, утруждать себя|Don't *bother* waiting for me — I'll be late.
+boundary|n|граница, предел|The river forms the *boundary* between the two countries.
+brief|adj|краткий|Let me give you a *brief* summary of the plan.
+capable|adj|способный|She is *capable* of much better work than this.
+cease|v|прекращать(ся)|The factory *ceased* production last month.
+circumstance|n|обстоятельство|Under no *circumstances* should you open this door.
+claim|v|утверждать; требовать|He *claims* that he never received the letter.
+clarify|v|уточнять, прояснять|Could you *clarify* what you mean by that?
+combine|v|сочетать, объединять|The film *combines* humour with real emotion.
+commit|v|совершать; обязываться|He *committed* a serious crime.
+complex|adj|сложный|The tax system is extremely *complex*.
+comprehensive|adj|всесторонний, исчерпывающий|The guide offers a *comprehensive* overview of the city.
+concentrate|v|сосредоточиваться|It's hard to *concentrate* with all this noise.
+concern|n|беспокойство; забота|There is growing *concern* about water pollution.
+conclude|v|заключать, делать вывод|The investigators *concluded* that the fire was an accident.
+confirm|v|подтверждать|Please *confirm* your booking by email.
+consequence|n|последствие|Her decision had serious *consequences*.
+considerable|adj|значительный|The project took a *considerable* amount of time.
+constant|adj|постоянный|He was in *constant* pain after the accident.
+contain|v|содержать|The box *contains* a variety of old photographs.
+contrast|n|контраст|There is a sharp *contrast* between rich and poor areas.
+convince|v|убеждать|I couldn't *convince* him to change his mind.
+cope|v|справляться|How do you *cope* with so much stress?
+crucial|adj|решающий, ключевой|Good communication is *crucial* to success.
+decline|v|снижаться; отклонять|Sales have *declined* over the past year.
+definite|adj|определённый, чёткий|We have no *definite* plans yet.
+deliberate|adj|преднамеренный|It was a *deliberate* attempt to mislead us.
+deserve|v|заслуживать|You *deserve* a holiday after all that work.
+despite|prep|несмотря на|*Despite* the rain, the match went ahead.
+detect|v|обнаруживать|The alarm *detects* smoke within seconds.
+determine|v|определять; решать|Tests will *determine* the cause of the problem.
+differ|v|отличаться|The two reports *differ* on several important points.
+disappear|v|исчезать|The keys seem to have *disappeared*.
+display|v|выставлять, показывать|The museum *displays* paintings from the 17th century.
+distribute|v|распространять, распределять|Volunteers *distributed* food to the flood victims.
+doubt|n|сомнение|There is no *doubt* that she is the best candidate.
+eager|adj|горячо желающий, нетерпеливый|The children were *eager* to open their presents.
+eliminate|v|устранять, исключать|The new system *eliminates* the need for paperwork.
+emerge|v|появляться, выходить|A new leader *emerged* from the crisis.
+emphasise|v|подчёркивать|The teacher *emphasised* the importance of reading.
+enable|v|позволять, давать возможность|The software *enables* users to share files easily.
+encounter|v|сталкиваться, встречать|We *encountered* several problems on the way.
+endure|v|терпеть, выносить|She *endured* years of hardship.
+enormous|adj|огромный|The new stadium is *enormous*.
+ensure|v|обеспечивать, гарантировать|Please *ensure* that all the windows are closed.
+entire|adj|весь, целый|He spent the *entire* day in bed.
+estimate|v|оценивать (приблизительно)|Experts *estimate* the cost at two million pounds.
+evident|adj|очевидный|It was *evident* that he was lying.
+exceed|v|превышать|Speeds *exceeding* 50 km/h are not allowed here.
+exclude|v|исключать|The price *excludes* delivery.
+expand|v|расширять(ся)|The company plans to *expand* into Asia.
+expose|v|разоблачать; подвергать воздействию|The newspaper *exposed* a corruption scandal.
+extend|v|продлевать, расширять|They *extended* the deadline by a week.
+extreme|adj|крайний, чрезвычайный|The athletes trained in *extreme* heat.
+factor|n|фактор|Price is an important *factor* in my decision.
+familiar|adj|знакомый|Her face looks *familiar*, but I can't place it.
+feature|n|особенность, черта|The hotel's main *feature* is its rooftop pool.
+flaw|n|недостаток, изъян|There is a serious *flaw* in your argument.
+focus|v|сосредоточиваться|The course *focuses* on practical skills.
+fortunate|adj|удачливый, счастливый|We were *fortunate* to find a room at the last minute.
+frequent|adj|частый|He is a *frequent* visitor to our house.
+gradual|adj|постепенный|There has been a *gradual* improvement in her health.
+guarantee|v|гарантировать|The company *guarantees* delivery within two days.
+hence|adv|следовательно, отсюда|The area is warm all year, *hence* the many tourists.
+highlight|v|выделять, подчёркивать|The report *highlights* the need for more teachers.
+illustrate|v|иллюстрировать, пояснять|Let me *illustrate* my point with an example.
+imply|v|подразумевать|Are you *implying* that I made a mistake?
+impose|v|навязывать, вводить|The government *imposed* a new tax on cigarettes.
+indicate|v|указывать, свидетельствовать|Research *indicates* that sleep improves memory.
+individual|adj|отдельный, индивидуальный|Each *individual* case is treated differently.
+influence|n|влияние|Parents have a strong *influence* on their children.
+inevitable|adj|неизбежный|Delays were *inevitable* because of the snow.
+initial|adj|первоначальный|My *initial* reaction was one of shock.
+insist|v|настаивать|He *insisted* on paying for dinner.

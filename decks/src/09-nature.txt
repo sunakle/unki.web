@@ -1,0 +1,83 @@
+#level=C1
+#theme=природа, наука и путешествия
+ecosystem|n|экосистема|Pollution has damaged the fragile *ecosystem* of the lake.
+emission|n|выброс|Carbon *emissions* must be cut to slow climate change.
+endangered|adj|находящийся под угрозой исчезновения|The giant panda is an *endangered* species.
+extinct|adj|вымерший|Dinosaurs became *extinct* millions of years ago.
+fossil fuel|phr|ископаемое топливо|Coal and oil are *fossil fuels*.
+habitat|n|среда обитания|Deforestation destroys the *habitat* of many animals.
+biodiversity|n|биоразнообразие|The rainforest has incredible *biodiversity*.
+conservation|n|охрана природы, сохранение|The charity works for wildlife *conservation*.
+contaminate|v|загрязнять, заражать|Chemicals had *contaminated* the drinking water.
+deforestation|n|вырубка лесов|*Deforestation* is a major cause of climate change.
+drought|n|засуха|The region has suffered a three-year *drought*.
+erosion|n|эрозия|Coastal *erosion* threatens several villages.
+famine|n|голод (массовый)|Thousands died in the *famine*.
+greenhouse effect|phr|парниковый эффект|The *greenhouse effect* is warming the planet.
+hazard|n|опасность, риск|Loose wires are a serious fire *hazard*.
+landfill|n|свалка, полигон отходов|Most household waste ends up in *landfill*.
+nuclear|adj|ядерный|The country plans to build a new *nuclear* power station.
+pollutant|n|загрязнитель|Cars release harmful *pollutants* into the air.
+preserve|v|сохранять, охранять|Efforts are being made to *preserve* the old forest.
+renewable|adj|возобновляемый|Wind and solar are *renewable* sources of energy.
+sustainable|adj|устойчивый, экологичный|The company promotes *sustainable* farming.
+toxic|adj|токсичный|The factory dumped *toxic* waste into the river.
+wildlife|n|дикая природа, животный мир|The national park is rich in *wildlife*.
+wetland|n|заболоченная местность|The *wetland* is home to rare birds.
+biodegradable|adj|биоразлагаемый|The shop sells *biodegradable* bags.
+carbon footprint|phr|углеродный след|You can reduce your *carbon footprint* by cycling to work.
+devastation|n|опустошение, разруха|The hurricane left *devastation* in its path.
+depletion|n|истощение|Soil *depletion* has reduced crop yields.
+disposal|n|утилизация|Careful *disposal* of batteries protects the environment.
+eco-friendly|adj|экологически чистый|She uses only *eco-friendly* cleaning products.
+fertile|adj|плодородный|The valley has rich, *fertile* soil.
+glacier|n|ледник|The *glacier* is shrinking every year.
+harvest|n|урожай, сбор урожая|Heavy rain ruined this year's *harvest*.
+inhabit|v|населять, обитать|Few animals *inhabit* the desert.
+irrigation|n|орошение|*Irrigation* turned the dry land into farmland.
+mineral|n|минерал, полезное ископаемое|The region is rich in *minerals* such as copper.
+overpopulation|n|перенаселение|*Overpopulation* puts pressure on natural resources.
+predator|n|хищник|The lion is a top *predator*.
+reserve|n|заповедник; запас|The national *reserve* protects elephants and rhinos.
+scarcity|n|нехватка, дефицит|Water *scarcity* affects millions of people.
+species|n|вид (биол.)|Scientists discover new *species* every year.
+terrain|n|местность, рельеф|The *terrain* was too rough for ordinary vehicles.
+tide|n|прилив и отлив|The *tide* comes in quickly on this beach.
+volcano|n|вулкан|The *volcano* erupted in the middle of the night.
+accommodation|n|жильё, размещение|The price includes flights and *accommodation*.
+backpacking|n|путешествие с рюкзаком|She spent a year *backpacking* around South America.
+destination|n|пункт назначения, место отдыха|Spain is a popular holiday *destination*.
+excursion|n|экскурсия, поездка|We went on a day *excursion* to the castle.
+getaway|n|короткий отдых, побег от повседневности|It's a perfect *getaway* from the city.
+hospitality|n|гостеприимство|We were touched by the local people's *hospitality*.
+itinerary|n|маршрут, план поездки|Our *itinerary* includes three days in Rome.
+landmark|n|достопримечательность, ориентир|The tower is a famous London *landmark*.
+layover|n|пересадка (длительная)|We had a six-hour *layover* in Dubai.
+picturesque|adj|живописный|We stayed in a *picturesque* village by the sea.
+remote|adj|отдалённый|They live in a *remote* part of Scotland.
+resort|n|курорт|They spent a week at a ski *resort*.
+scenic|adj|живописный (о пейзаже, маршруте)|We took the *scenic* route along the coast.
+secluded|adj|уединённый|The cottage is in a *secluded* valley.
+souvenir|n|сувенир|I bought a small *souvenir* for my sister.
+sightseeing|n|осмотр достопримечательностей|We spent the afternoon *sightseeing* in Prague.
+tourism|n|туризм|*Tourism* is the island's main source of income.
+off the beaten track|phr|в стороне от туристических маршрутов|We prefer holidays *off the beaten track*.
+atom|n|атом|Everything is made up of *atoms*.
+chemical|n|химическое вещество|The factory uses dangerous *chemicals*.
+gene|n|ген|Scientists have identified the *gene* responsible for the disease.
+molecule|n|молекула|A water *molecule* contains two hydrogen atoms.
+particle|n|частица|Dust *particles* hung in the air.
+radiation|n|излучение, радиация|Too much *radiation* is harmful to health.
+evolution|n|эволюция|Darwin's theory of *evolution* changed biology.
+gravity|n|гравитация, сила тяжести|Astronauts float because there is no *gravity*.
+orbit|n|орбита|The satellite is in *orbit* around the Earth.
+galaxy|n|галактика|Our *galaxy* contains billions of stars.
+telescope|n|телескоп|He observed Jupiter through a *telescope*.
+climate|n|климат|The *climate* here is mild all year round.
+temperate|adj|умеренный (о климате)|Britain has a *temperate* climate.
+humid|adj|влажный (о воздухе)|The summers here are hot and *humid*.
+arid|adj|засушливый|Much of the country is *arid* desert.
+landscape|n|пейзаж, ландшафт|The *landscape* changes dramatically in the north.
+shore|n|берег|We walked along the *shore* at sunset.
+cliff|n|утёс, обрыв|The house stands on the edge of a *cliff*.
+valley|n|долина|A river runs through the *valley*.

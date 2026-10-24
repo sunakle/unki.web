@@ -1,0 +1,81 @@
+#level=C1
+#theme=технологии и медиа
+algorithm|n|алгоритм|The search engine uses a complex *algorithm* to rank pages.
+automation|n|автоматизация|*Automation* has replaced many factory jobs.
+bandwidth|n|пропускная способность; ресурсы|Streaming video needs a lot of *bandwidth*.
+breach|n|нарушение; взлом (защиты)|The *breach* exposed the data of millions of customers.
+browse|v|просматривать (сайты, товары)|She spent the evening *browsing* the internet.
+cutting-edge|adj|передовой, новейший|The lab uses *cutting-edge* technology.
+database|n|база данных|All our customer records are stored in a *database*.
+decode|v|расшифровывать, декодировать|Experts were able to *decode* the secret message.
+digitise|v|оцифровывать|The library is *digitising* its collection of old newspapers.
+disrupt|v|нарушать работу, подрывать|Cheap online services have *disrupted* the travel industry.
+encrypt|v|шифровать|All messages are *encrypted* for security.
+firewall|n|межсетевой экран, брандмауэр|The *firewall* blocks suspicious traffic.
+glitch|n|сбой, неполадка|A software *glitch* delayed hundreds of flights.
+hack|v|взламывать|Someone *hacked* into the company's email system.
+hardware|n|аппаратное обеспечение, оборудование|The shop sells computer *hardware* and software.
+interface|n|интерфейс|The app has a clean, user-friendly *interface*.
+malfunction|n|неисправность, сбой|A *malfunction* in the engine forced the plane to land.
+network|n|сеть|The company runs a secure *network* across all its offices.
+obsolete|adj|устаревший|Typewriters became *obsolete* with the arrival of computers.
+outdated|adj|устаревший|The software is *outdated* and full of bugs.
+platform|n|платформа|Many artists promote their work on social media *platforms*.
+prototype|n|прототип, опытный образец|The engineers built a *prototype* of the new car.
+software|n|программное обеспечение|You need to update your *software* regularly.
+streaming|n|потоковая передача|Music *streaming* has changed the way we listen.
+surveillance|n|наблюдение, слежка|The city has thousands of *surveillance* cameras.
+upgrade|v|обновлять, улучшать (модель)|I need to *upgrade* my laptop.
+virtual|adj|виртуальный|The conference will take place in a *virtual* meeting room.
+wireless|adj|беспроводной|The café offers free *wireless* internet.
+bias|n|предвзятость, необъективность|The study found *bias* in the way news was reported.
+broadcast|v|транслировать, передавать в эфир|The match was *broadcast* live in forty countries.
+censor|v|подвергать цензуре|The government *censors* all foreign newspapers.
+circulation|n|тираж; обращение|The newspaper has a daily *circulation* of 200,000.
+clickbait|n|кликбейт, заманивающие заголовки|Beware of *clickbait* headlines that promise shocking news.
+columnist|n|обозреватель, колумнист|A well-known *columnist* wrote about the election.
+correspondent|n|корреспондент|Our foreign *correspondent* reports from Cairo.
+coverage|n|освещение (в СМИ)|The television *coverage* of the event was excellent.
+credibility|n|достоверность, доверие|The scandal damaged the minister's *credibility*.
+documentary|n|документальный фильм|I watched a *documentary* about deep-sea creatures.
+editorial|n|редакционная статья|The *editorial* criticised the government's housing policy.
+exposure|n|огласка; воздействие|Constant media *exposure* made her a household name.
+headline|n|заголовок|The *headline* read "Prime Minister Resigns".
+hoax|n|розыгрыш, мистификация|The photo of the monster was a *hoax*.
+journalism|n|журналистика|She studied *journalism* at university.
+libel|n|клевета (в печати)|The magazine was sued for *libel*.
+mainstream|adj|массовый, общепринятый|His ideas have moved from the fringe into the *mainstream*.
+manipulate|v|манипулировать|Advertisers try to *manipulate* our emotions.
+misinformation|n|дезинформация, ложные сведения|*Misinformation* spreads fast on social media.
+outlet|n|средство массовой информации; торговая точка|Several news *outlets* reported the story.
+propaganda|n|пропаганда|The film was banned as political *propaganda*.
+publicity|n|реклама, известность|The scandal gave the band a lot of free *publicity*.
+scoop|n|эксклюзив, сенсационная новость|The reporter got a *scoop* on the minister's resignation.
+sensational|adj|сенсационный|The tabloids ran a *sensational* story about the footballer.
+tabloid|n|таблоид, жёлтая пресса|The *tabloid* published private photos of the couple.
+viral|adj|вирусный (быстро распространяющийся)|The video went *viral* within hours.
+influencer|n|инфлюенсер|The brand pays *influencers* to promote its products.
+feed|n|лента (в соцсетях)|My news *feed* is full of holiday photos.
+subscribe|v|подписываться|She *subscribed* to several online magazines.
+innovation|n|инновация, нововведение|The company is famous for its *innovation*.
+invent|v|изобретать|Who *invented* the telephone?
+laboratory|n|лаборатория|The samples were sent to a *laboratory* for analysis.
+pioneer|n|пионер, новатор|She was a *pioneer* of modern genetics.
+revolutionise|v|совершить переворот в, коренным образом изменить|The internet has *revolutionised* the way we work.
+simulate|v|имитировать, моделировать|The program *simulates* real flight conditions.
+tangible|adj|осязаемый, ощутимый|There is no *tangible* evidence of progress.
+trial and error|phr|метод проб и ошибок|He learnt to cook through *trial and error*.
+gadget|n|гаджет, приспособление|He loves buying the latest *gadgets*.
+download|v|скачивать|You can *download* the app for free.
+install|v|устанавливать|Please *install* the update before restarting.
+malware|n|вредоносное ПО|The email contained *malware* that infected the computer.
+phishing|n|фишинг|Never click on links in *phishing* emails.
+password-protected|adj|защищённый паролем|The file is *password-protected*.
+cloud|n|облако (хранилище данных)|I store all my photos in the *cloud*.
+artificial intelligence|phr|искусственный интеллект|*Artificial intelligence* can now translate speech in real time.
+machine learning|phr|машинное обучение|*Machine learning* helps doctors detect diseases earlier.
+cyberattack|n|кибератака|The hospital was crippled by a *cyberattack*.
+privacy|n|конфиденциальность, частная жизнь|Many users worry about online *privacy*.
+bug|n|ошибка (в программе)|The developers are working to fix the *bug*.
+user-friendly|adj|удобный для пользователя|The new website is much more *user-friendly*.
+compatible|adj|совместимый|Is this charger *compatible* with my phone?

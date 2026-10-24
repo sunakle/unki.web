@@ -1,0 +1,87 @@
+#level=B2
+#theme=здоровье
+addiction|n|зависимость|He is receiving treatment for drug *addiction*.
+ailment|n|недуг, болезнь|The herbal tea is said to cure minor *ailments*.
+allergy|n|аллергия|She has an *allergy* to peanuts.
+appetite|n|аппетит|After the long walk we all had a good *appetite*.
+bandage|n|бинт, повязка|The nurse wrapped a *bandage* around his ankle.
+benefit|n|польза; пособие|Regular exercise has many health *benefits*.
+blood pressure|phr|кровяное давление|The doctor checked my *blood pressure*.
+bruise|n|синяк|She had a large *bruise* on her knee.
+calorie|n|калория|A can of cola contains about 140 *calories*.
+cure|n|лекарство, средство лечения|Researchers are still searching for a *cure* for the disease.
+dehydrated|adj|обезвоженный|Drink water or you'll get *dehydrated*.
+diagnose|v|ставить диагноз|He was *diagnosed* with diabetes at the age of ten.
+diagnosis|n|диагноз|The doctor gave a clear *diagnosis*.
+disability|n|инвалидность|The building has full access for people with a *disability*.
+disease|n|болезнь|Heart *disease* is a leading cause of death.
+dose|n|доза|Do not exceed the recommended *dose*.
+exhausted|adj|измученный, обессиленный|I was *exhausted* after the twelve-hour flight.
+fatigue|n|усталость, утомление|Driver *fatigue* causes thousands of accidents every year.
+heal|v|заживать, исцелять|The wound took weeks to *heal*.
+hygiene|n|гигиена|Good *hygiene* prevents the spread of infection.
+immune|adj|невосприимчивый; иммунный|Most adults are *immune* to chickenpox.
+infection|n|инфекция|She is taking antibiotics for a throat *infection*.
+injure|v|травмировать|Two players were *injured* during the match.
+injury|n|травма, повреждение|He missed the season because of a knee *injury*.
+insomnia|n|бессонница|Stress can cause *insomnia*.
+intake|n|потребление (еды, жидкости)|Reduce your sugar *intake* to protect your teeth.
+lifestyle|n|образ жизни|A healthy *lifestyle* includes sleep, exercise and good food.
+malnutrition|n|недоедание, неправильное питание|Many children in the region suffer from *malnutrition*.
+mental health|phr|психическое здоровье|Employers should support their staff's *mental health*.
+muscle|n|мышца|Swimming strengthens the *muscles* in your back.
+nutrition|n|питание, диетология|Good *nutrition* is vital for growing children.
+nutritious|adj|питательный|Soup is a cheap and *nutritious* meal.
+obesity|n|ожирение|*Obesity* increases the risk of heart disease.
+overweight|adj|с избыточным весом|Doctors warn that many adults are *overweight*.
+painkiller|n|обезболивающее|I took a *painkiller* for my headache.
+physical|adj|физический|He has a very *physical* job.
+pregnant|adj|беременная|She is six months *pregnant*.
+prescription|n|рецепт (на лекарство)|You need a *prescription* to buy this medicine.
+recover|v|выздоравливать, восстанавливаться|He is *recovering* from a serious operation.
+recovery|n|выздоровление, восстановление|She made a full *recovery* after the surgery.
+relieve|v|облегчать, снимать (боль)|This cream will *relieve* the itching.
+remedy|n|средство, лекарство|Honey and lemon is a traditional *remedy* for a sore throat.
+side effect|phr|побочный эффект|The drug may cause *side effects* such as drowsiness.
+sprain|v|растянуть (связки)|He fell and *sprained* his ankle.
+stamina|n|выносливость|Marathon runners need great *stamina*.
+stiff|adj|затёкший, одеревенелый|My neck is *stiff* from sitting at the computer all day.
+stretch|v|растягиваться, делать растяжку|Always *stretch* before you run.
+suffer|v|страдать|She *suffers* from severe headaches.
+surgeon|n|хирург|The *surgeon* operated for six hours.
+surgery|n|хирургия, операция|He needs *surgery* on his knee.
+symptom|n|симптом|Fever is a common *symptom* of flu.
+therapy|n|терапия, лечение|She is undergoing physical *therapy* after the accident.
+treatment|n|лечение|The patient responded well to the *treatment*.
+vaccine|n|вакцина|A new *vaccine* has been developed against the virus.
+vaccinate|v|вакцинировать|Children are *vaccinated* against measles at the age of one.
+virus|n|вирус|The *virus* spreads quickly in crowded places.
+wellbeing|n|благополучие, здоровье|Regular walks improve your general *wellbeing*.
+wound|n|рана|The nurse cleaned the *wound* carefully.
+workout|n|тренировка|I do a thirty-minute *workout* every morning.
+fitness|n|физическая форма|Cycling to work improves your *fitness*.
+organic|adj|органический, натуральный|She only buys *organic* vegetables.
+balanced|adj|сбалансированный|Try to eat a *balanced* diet.
+junk food|phr|вредная еда, фастфуд|Teenagers eat too much *junk food*.
+processed|adj|обработанный (о продуктах)|Avoid *processed* foods with lots of sugar.
+ingredient|n|ингредиент|Mix all the *ingredients* in a large bowl.
+craving|n|сильное желание, тяга|I have a *craving* for chocolate.
+consume|v|потреблять|The average person *consumes* far too much salt.
+digest|v|переваривать|Fatty food is hard to *digest*.
+bleed|v|кровоточить|The cut on his hand was *bleeding* badly.
+faint|v|падать в обморок|She nearly *fainted* when she saw the blood.
+swollen|adj|опухший|His ankle was badly *swollen* after the fall.
+shiver|v|дрожать (от холода)|We *shivered* in the cold wind.
+blister|n|волдырь, мозоль|New shoes often give you *blisters*.
+cramp|n|судорога|He got a *cramp* in his leg while swimming.
+dizzy|adj|испытывающий головокружение|I felt *dizzy* when I stood up too quickly.
+nausea|n|тошнота|The medicine can cause *nausea*.
+numb|adj|онемевший|My fingers went *numb* with cold.
+sore|adj|болезненный, воспалённый|I've got a *sore* throat.
+tender|adj|болезненный при прикосновении; нежный|The bruise is still *tender*.
+chronic|adj|хронический|He suffers from *chronic* back pain.
+acute|adj|острый (о болезни, боли)|She was rushed to hospital with *acute* appendicitis.
+contagious|adj|заразный|The flu is highly *contagious*.
+sedentary|adj|малоподвижный|A *sedentary* lifestyle is bad for your heart.
+relapse|n|рецидив|He suffered a *relapse* a month after leaving hospital.
+check-up|n|медосмотр, проверка|It's time for my annual *check-up* at the dentist's.

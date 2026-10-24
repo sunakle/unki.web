@@ -1,0 +1,111 @@
+#level=C1
+#theme=абстрактная лексика и академический язык
+acknowledge|v|признавать|He refused to *acknowledge* that he had made a mistake.
+advocate|v|выступать за, отстаивать|She *advocates* stricter laws on plastic waste.
+alleviate|v|облегчать, смягчать|Medication can *alleviate* the pain.
+ambiguity|n|двусмысленность, неоднозначность|The *ambiguity* of the contract led to a dispute.
+ambiguous|adj|двусмысленный|His reply was deliberately *ambiguous*.
+articulate|v|чётко выражать|He struggled to *articulate* his feelings.
+assert|v|утверждать, заявлять|She *asserted* that she had never seen the document.
+assumption|n|предположение|The plan is based on a false *assumption*.
+attribute|v|приписывать, объяснять чем-либо|She *attributes* her success to hard work.
+coherent|adj|связный, логичный|He gave a clear and *coherent* explanation.
+comply|v|соблюдать, подчиняться|All companies must *comply* with the new regulations.
+compelling|adj|убедительный, неотразимый|She made a *compelling* argument for change.
+concede|v|уступать, признавать|The government finally *conceded* that the policy had failed.
+conceive|v|задумать, представить|It's hard to *conceive* of a world without the internet.
+concise|adj|краткий и ясный|Keep your answers *concise*.
+consensus|n|консенсус, единое мнение|There is no *consensus* among scientists on this issue.
+consequently|adv|следовательно|Sales fell; *consequently*, jobs were lost.
+contend|v|утверждать; бороться|Critics *contend* that the law is unfair.
+contradict|v|противоречить|His statement *contradicts* what he said earlier.
+controversy|n|спор, полемика|The decision caused a great deal of *controversy*.
+controversial|adj|спорный|It was a highly *controversial* decision.
+convey|v|передавать (мысль, чувство)|The film *conveys* a powerful message about loss.
+deduce|v|делать вывод|From the evidence, we can *deduce* that he was lying.
+derive|v|получать, происходить от|The word *derives* from Latin.
+dilemma|n|дилемма|She faced a moral *dilemma*.
+discrepancy|n|расхождение|There is a *discrepancy* between the two accounts.
+distinct|adj|отчётливый, явно отличный|The two languages are quite *distinct*.
+elaborate|v|подробно излагать|Could you *elaborate* on that point?
+emphasis|n|акцент, упор|The school places great *emphasis* on discipline.
+enhance|v|улучшать, повышать|Good lighting can *enhance* the atmosphere of a room.
+entail|v|влечь за собой|The job *entails* long hours and a lot of travel.
+essence|n|суть|The *essence* of the problem is lack of trust.
+exaggerate|v|преувеличивать|Don't *exaggerate*; it wasn't that bad.
+explicit|adj|явный, чёткий|He gave me *explicit* instructions not to be late.
+facilitate|v|способствовать, облегчать|The software *facilitates* communication between teams.
+framework|n|структура, рамки|The law provides a *framework* for resolving disputes.
+fundamental|adj|фундаментальный|There is a *fundamental* difference between the two approaches.
+generate|v|порождать, генерировать|The new policy will *generate* hundreds of jobs.
+hinder|v|мешать, препятствовать|Bad weather *hindered* the rescue operation.
+implication|n|последствие, подтекст|The *implications* of the decision are serious.
+implicit|adj|подразумеваемый|There was an *implicit* threat in his words.
+infer|v|делать вывод|What can we *infer* from these figures?
+inherent|adj|присущий|There are risks *inherent* in any investment.
+initiative|n|инициатива|She took the *initiative* and called the manager.
+integrity|n|честность, целостность|He is a man of great *integrity*.
+intricate|adj|запутанный, сложный|The watch has an *intricate* mechanism.
+justify|v|оправдывать|Nothing can *justify* such cruelty.
+legitimate|adj|законный, обоснованный|She has a *legitimate* reason for complaining.
+magnitude|n|масштаб, величина|People didn't realise the *magnitude* of the problem.
+manifest|v|проявляться|The disease *manifests* itself in several ways.
+mitigate|v|смягчать, уменьшать|Trees can help *mitigate* the effects of pollution.
+notion|n|понятие, представление|The *notion* that money brings happiness is false.
+nuance|n|нюанс|He understands the *nuances* of the language.
+objective|adj|объективный|Try to give an *objective* account of what happened.
+obscure|adj|малоизвестный, неясный|The origins of the custom are *obscure*.
+paradigm|n|парадигма|The discovery caused a *paradigm* shift in physics.
+paradox|n|парадокс|It's a *paradox* that more choice can make us less happy.
+perceive|v|воспринимать|Many people *perceive* him as arrogant.
+perspective|n|точка зрения|Try to see things from a different *perspective*.
+pertinent|adj|уместный|She asked several *pertinent* questions.
+pinpoint|v|точно определить|Doctors couldn't *pinpoint* the cause of the illness.
+plausible|adj|правдоподобный|His story sounded *plausible*.
+precede|v|предшествовать|A short speech *preceded* the ceremony.
+predominantly|adv|преимущественно|The audience was *predominantly* young.
+presume|v|полагать|I *presume* you've already eaten.
+prevail|v|преобладать, одержать верх|Common sense eventually *prevailed*.
+prevalent|adj|распространённый|The disease is more *prevalent* in cities.
+profound|adj|глубокий|The war had a *profound* effect on him.
+prominent|adj|выдающийся, заметный|She is a *prominent* member of the community.
+prone|adj|склонный|He is *prone* to making careless mistakes.
+rationale|n|обоснование, логика|I don't understand the *rationale* behind this decision.
+refute|v|опровергать|The company *refuted* the allegations.
+scrutiny|n|тщательное изучение|The minister is under close *scrutiny*.
+sceptical|adj|скептически настроенный|I'm *sceptical* about his promises.
+subsequent|adj|последующий|*Subsequent* events proved him right.
+subtle|adj|тонкий, едва заметный|There's a *subtle* difference in meaning.
+supplement|v|дополнять|He *supplements* his income by teaching at night.
+thorough|adj|тщательный|The police carried out a *thorough* investigation.
+trigger|v|вызывать, запускать|The smell *triggered* a memory of her childhood.
+undermine|v|подрывать|Constant criticism *undermined* her confidence.
+underlying|adj|основной, скрытый|We need to address the *underlying* causes of crime.
+undertake|v|предпринимать, брать на себя|The company will *undertake* a full review.
+valid|adj|обоснованный, действительный|That's a *valid* point.
+viable|adj|жизнеспособный|Is the plan economically *viable*?
+vulnerable|adj|уязвимый|Young children are *vulnerable* to infection.
+whereas|conj|тогда как|He likes jazz, *whereas* his wife prefers rock.
+withstand|v|выдерживать|The building is designed to *withstand* earthquakes.
+widespread|adj|широко распространённый|There is *widespread* support for the plan.
+admittedly|adv|надо признать|*Admittedly*, I was wrong.
+albeit|conj|хотя и|It was a good result, *albeit* a small one.
+arguably|adv|можно утверждать|He is *arguably* the best player in the world.
+chiefly|adv|главным образом|The job is *chiefly* about dealing with customers.
+conversely|adv|наоборот, с другой стороны|Some people enjoy city life; *conversely*, others prefer the countryside.
+furthermore|adv|кроме того|The plan is cheap; *furthermore*, it is quick.
+inadvertently|adv|нечаянно|I *inadvertently* deleted the file.
+inevitably|adv|неизбежно|*Inevitably*, there were delays.
+likewise|adv|так же|She waved, and he did *likewise*.
+merely|adv|всего лишь|It was *merely* a suggestion.
+nonetheless|adv|тем не менее|The work was hard; *nonetheless*, we enjoyed it.
+notwithstanding|prep|несмотря на|*Notwithstanding* the bad weather, the event went ahead.
+ostensibly|adv|якобы|He went to the city, *ostensibly* to visit a friend.
+reportedly|adv|по сообщениям|The painting is *reportedly* worth millions.
+scarcely|adv|едва|I could *scarcely* believe my eyes.
+seemingly|adv|по-видимому|*Seemingly* unaware of the noise, he carried on reading.
+solely|adv|исключительно|The decision was based *solely* on cost.
+supposedly|adv|якобы|The house is *supposedly* haunted.
+thereby|adv|тем самым|He lost weight, *thereby* improving his health.
+undoubtedly|adv|несомненно|She is *undoubtedly* the best candidate.
+virtually|adv|практически|The streets were *virtually* empty.
