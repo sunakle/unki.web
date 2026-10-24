@@ -1,6 +1,7 @@
 // Параметры колоды (наборы настроек) и общие настройки программы.
 import * as S from './store.js';
 import { h, openWindow, clear, popupMenu, promptDialog, confirmDialog, toast, applyAppearance, plural, icon } from './ui.js';
+import { ACCENTS, ttsSupported, ttsSettings, setTtsSettings, englishVoices, whenVoices, speakWithHint, stopSpeech } from './tts.js';
 
 /* ---------- шаги: "1m 10m 1h 1d" <-> минуты ---------- */
 export function parseSteps(s) {
@@ -174,7 +175,7 @@ export function openPrefs() {
   const col = S.C();
   const cfg = () => col.config;
   const set = (patch) => { S.setConfig(patch); applyAppearance(col.config); };
-  const tabs = ['Внешний вид', 'Учёба', 'Редактирование', 'Данные'];
+  const tabs = ['Внешний вид', 'Учёба', 'Озвучка', 'Редактирование', 'Данные'];
   let cur = 0;
   const pane = h('div', { class: 'tabpane' });
   const bar = h('div', { class: 'tabs' });
@@ -200,6 +201,7 @@ export function openPrefs() {
         chk('Показывать время повторения над кнопками ответа', 'showTimes'),
         chk('Пробел или Enter для оценки «Хорошо» после ответа', 'spaceEnter')),
     ],
+    () => ttsPane(),
     () => [
       h('fieldset', {}, h('legend', {}, 'Редактирование'),
         chk('Вставка из буфера без форматирования (иначе — Shift+вставка)', 'pastePlain'),
@@ -215,6 +217,44 @@ export function openPrefs() {
           h('button', { class: 'btn', onclick: async () => (await import('./io.js')).restoreBackup() }, 'Восстановить…'))),
     ],
   ];
+
+  /* Озвучка хранится на этом устройстве (localStorage): набор голосов у каждого браузера свой */
+  function ttsPane() {
+    const st = ttsSettings();
+    const put = (patch) => setTtsSettings(patch);
+    const tchk = (label, key) => h('label', { class: 'chk' }, h('input', { type: 'checkbox', checked: !!st[key], disabled: !ttsSupported(), onchange: (e) => put({ [key]: e.target.checked }) }), label);
+    const voiceSel = h('select', { class: 'input', disabled: !ttsSupported(), onchange: (e) => put({ voice: e.target.value }) });
+    const note = h('div', { style: { color: 'var(--muted)', fontSize: '.78rem', lineHeight: 1.45, marginTop: '6px' } });
+    const fillVoices = (voices) => {
+      const list = englishVoices();
+      clear(voiceSel).append(h('option', { value: '' }, 'Автоматически'),
+        ...list.map((v) => h('option', { value: v.voiceURI, selected: v.voiceURI === ttsSettings().voice }, `${v.name} — ${v.lang}`)));
+      note.textContent = voices === null ? 'Загружаю список голосов…' : !ttsSupported()
+        ? 'Этот браузер не поддерживает синтез речи. Откройте сайт в Chrome, Edge или Safari.'
+        : voices.length && !list.length ? 'В системе нет английских голосов. Установите их в настройках языка и речи вашей системы.'
+          : !voices.length ? 'Список голосов пока пуст. Если звука нет, проверьте настройки речи в системе или откройте сайт в Chrome/Edge.'
+            : `Доступно английских голосов: ${list.length}. Голоса Google и Microsoft Natural звучат естественнее всего.`;
+    };
+    fillVoices(null);
+    whenVoices().then(fillVoices);
+    const rateVal = h('span', { style: { minWidth: '3em', textAlign: 'right' } }, `${st.rate}×`);
+    const rate = h('input', { type: 'range', min: 0.5, max: 1.5, step: 0.1, value: st.rate, disabled: !ttsSupported(),
+      oninput: (e) => { rateVal.textContent = `${(+e.target.value).toFixed(1)}×`; put({ rate: +(+e.target.value).toFixed(1) }); } });
+    const test = h('button', { class: 'btn', disabled: !ttsSupported(), onclick: () => { stopSpeech(); speakWithHint([{ text: 'Hello! This is how English words will sound.', lang: 'en' }], toast); } }, '🔊 Проверить звук');
+    return [
+      h('fieldset', {}, h('legend', {}, 'Озвучка английского'),
+        tchk('Включить озвучку: кнопка 🔊 на карточке, клавиша R, двойной щелчок по слову', 'enabled'),
+        tchk('Произносить вопрос автоматически', 'autoQ'),
+        tchk('Произносить ответ автоматически (то, что появилось после «Показать ответ»)', 'autoA')),
+      h('fieldset', {}, h('legend', {}, 'Голос'),
+        row('Произношение', h('select', { class: 'input', disabled: !ttsSupported(), onchange: (e) => put({ accent: e.target.value }) }, ACCENTS.map(([v, t]) => h('option', { value: v, selected: st.accent === v }, t)))),
+        row('Голос', voiceSel),
+        row('Скорость', h('div', { style: { display: 'flex', gap: '8px', alignItems: 'center' } }, rate, rateVal)),
+        h('div', { class: 'btn-row', style: { justifyContent: 'flex-start', marginTop: '8px' } }, test), note),
+      h('div', { style: { color: 'var(--muted)', fontSize: '.78rem', lineHeight: 1.45 } },
+        'Звук создаёт сам браузер на вашем устройстве, текст карточек никуда не отправляется. Озвучиваются английские слова и фразы; русский текст пропускается. В шаблонах можно использовать тег {{tts en_US:Поле}}, как в Anki.'),
+    ];
+  }
 
   function render() {
     clear(bar).append(...tabs.map((t, i) => h('button', { class: i === cur ? 'on' : '', onclick: () => { cur = i; render(); } }, t)));

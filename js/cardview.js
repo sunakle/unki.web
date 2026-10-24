@@ -1,6 +1,7 @@
 // Показ карточки в изолированном iframe (без скриптов): безопасно для импортированных колод.
-import { h } from './ui.js';
+import { h, toast } from './ui.js';
 import { sanitizeHtml } from './models.js';
+import { ttsActive, speakWithHint, selectionSegments } from './tts.js';
 
 function themeVars() {
   const cs = getComputedStyle(document.documentElement);
@@ -15,7 +16,8 @@ function themeVars() {
 export function frameDoc(bodyHtml, css) {
   const { dark, bg, fg } = themeVars();
   const cls = dark ? 'nightMode night_mode' : '';
-  return `<!doctype html><html class="${cls}"><head><meta charset="utf-8"><meta name="color-scheme" content="${dark ? 'dark' : 'light'}">
+  const htmlCls = `${cls}${ttsActive() ? '' : ' tts-off'}`;
+  return `<!doctype html><html class="${htmlCls}"><head><meta charset="utf-8"><meta name="color-scheme" content="${dark ? 'dark' : 'light'}">
 <style>
 html,body{margin:0;padding:0}
 body{padding:20px 20px 40px;background:${bg};color:${fg};overflow-wrap:anywhere;word-wrap:break-word;font-family:arial,"Segoe UI",sans-serif;font-size:20px;text-align:center}
@@ -30,6 +32,10 @@ details.hint summary{cursor:pointer;color:${dark ? '#8ab4ff' : '#1a56c4'}}
 table{margin:0 auto;border-collapse:collapse}td,th{padding:2px 8px}
 .unki-error{color:#e55}
 audio{max-width:100%}
+a.tts-btn{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;width:34px;height:34px;margin-left:.3em;border-radius:50%;color:${dark ? '#8ab4ff' : '#1a56c4'};text-decoration:none;cursor:pointer;font-size:0;line-height:0}
+a.tts-btn:hover,a.tts-btn:focus-visible{background:rgba(127,127,127,.22);outline:none}
+a.tts-btn:active{background:rgba(74,123,255,.35)}
+.tts-off a.tts-btn{display:none}
 </style><style>${(css || '').replace(/<\/style/gi, '')}</style></head>
 <body class="card ${cls}">${sanitizeHtml(bodyHtml)}</body></html>`;
 }
@@ -41,6 +47,19 @@ export function cardFrame({ onKey, onReady } = {}) {
     const d = f.contentDocument;
     if (!d) return;
     d.addEventListener('keydown', (e) => onKey?.(e, d));
+    // кнопки озвучки {{tts …}} внутри карточки
+    d.addEventListener('click', (e) => {
+      const b = e.target?.closest?.('[data-tts-text]');
+      if (!b) return;
+      e.preventDefault();
+      speakWithHint([{ text: b.getAttribute('data-tts-text'), lang: b.getAttribute('data-tts-lang') || 'en', rate: b.getAttribute('data-tts-rate') }], toast);
+    });
+    // двойной щелчок по английскому слову — произнести его (выделение, как в переводчике)
+    d.addEventListener('dblclick', (e) => {
+      if (!ttsActive() || e.target?.closest?.('input,textarea')) return;
+      const segs = selectionSegments(d.getSelection?.()?.toString());
+      if (segs.length) speakWithHint(segs, toast);
+    });
     onReady?.(d);
   });
   return {

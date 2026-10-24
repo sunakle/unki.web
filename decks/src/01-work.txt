@@ -1,0 +1,83 @@
+#level=B2
+#theme=работа
+accomplish|v|достигать, выполнять|She *accomplished* more in a week than I did in a month.
+adapt|v|приспосабливаться|It took him months to *adapt* to the new office culture.
+applicant|n|кандидат, соискатель|Over fifty *applicants* applied for the position.
+appoint|v|назначать (на должность)|The board *appointed* a new managing director.
+assign|v|поручать, назначать|The manager *assigned* the report to our team.
+attendance|n|посещаемость, присутствие|Regular *attendance* is required for all trainees.
+commute|v|ездить на работу|He *commutes* ninety minutes each way by train.
+competent|adj|компетентный, знающий|She is a *competent* engineer with ten years of experience.
+contract|n|контракт, договор|I signed a two-year *contract* with the company.
+demanding|adj|требовательный, трудный|Nursing is a physically *demanding* job.
+dismiss|v|увольнять; отклонять|He was *dismissed* for repeatedly arriving late.
+earn a living|phr|зарабатывать на жизнь|She *earns a living* by translating legal documents.
+efficient|adj|эффективный, рациональный|We need a more *efficient* way of processing orders.
+entrepreneur|n|предприниматель|The young *entrepreneur* started her first business at nineteen.
+expertise|n|профессиональные знания|We hired her for her *expertise* in data analysis.
+freelance|adj|внештатный, на фрилансе|He works as a *freelance* photographer for several magazines.
+fulfil|v|выполнять, исполнять|She *fulfilled* all the requirements of the job.
+handle|v|справляться, заниматься|Who *handles* customer complaints in your department?
+headquarters|n|штаб-квартира|The company's *headquarters* are in Frankfurt.
+hierarchy|n|иерархия|There is a strict *hierarchy* in the military.
+incentive|n|стимул, поощрение|Bonuses give employees an *incentive* to work harder.
+induction|n|вводное обучение, ввод в должность|New staff attend a two-day *induction* programme.
+internship|n|стажировка|She did a summer *internship* at a law firm.
+job satisfaction|phr|удовлетворённость работой|High pay does not always guarantee *job satisfaction*.
+lay off|phr v|увольнять (по сокращению)|The factory *laid off* two hundred workers last year.
+leadership|n|руководство, лидерство|Her *leadership* turned the failing team around.
+management|n|управление; руководство|The *management* has announced a new pay policy.
+mentor|n|наставник|My *mentor* taught me how to deal with difficult clients.
+merge|v|сливаться, объединяться|The two banks *merged* to form a larger company.
+negotiate|v|вести переговоры|The union is *negotiating* a better deal for its members.
+obligation|n|обязательство, долг|Employers have a legal *obligation* to provide a safe workplace.
+occupation|n|род занятий, профессия|Please state your name, age and *occupation*.
+on behalf of|phr|от имени, от лица|I am writing *on behalf of* the whole department.
+outsource|v|передавать на аутсорсинг|Many firms *outsource* their customer service abroad.
+overtime|n|сверхурочная работа|He did ten hours of *overtime* this week.
+payroll|n|ведомость зарплаты; штат|The company has over a thousand people on its *payroll*.
+pension|n|пенсия|She receives a small *pension* from the state.
+personnel|n|персонал, кадры|Only authorised *personnel* may enter this area.
+proficient|adj|сведущий, владеющий в совершенстве|He is *proficient* in three programming languages.
+promote|v|повышать в должности; продвигать|She was *promoted* to head of marketing.
+promotion|n|повышение (по службе); продвижение|He hopes to get a *promotion* by the end of the year.
+prospects|n|перспективы|Graduates in this field have excellent career *prospects*.
+qualification|n|квалификация; диплом|You need a teaching *qualification* to apply.
+recruit|v|набирать (сотрудников)|The firm is *recruiting* new graduates this autumn.
+redundancy|n|увольнение по сокращению штата|Hundreds of workers faced *redundancy* when the plant closed.
+reference|n|рекомендация, отзыв|My former boss agreed to write me a *reference*.
+reliable|adj|надёжный|We need someone *reliable* to run the shop.
+relocate|v|переезжать (на новое место работы)|The company is *relocating* its offices to Berlin.
+reputation|n|репутация|The firm has a *reputation* for excellent service.
+resign|v|уходить в отставку, увольняться по собственному желанию|The minister *resigned* after the scandal.
+retire|v|выходить на пенсию|My father *retired* at the age of sixty-five.
+retirement|n|выход на пенсию|She is looking forward to a long, happy *retirement*.
+reward|n|награда, вознаграждение|The job offers few financial *rewards* but great satisfaction.
+self-employed|adj|работающий на себя, ИП|Being *self-employed* means you set your own hours.
+senior|adj|старший (по должности)|He is a *senior* manager with twenty years of experience.
+shift|n|смена|She works the night *shift* at the hospital.
+skilled|adj|квалифицированный, умелый|The country needs more *skilled* workers.
+submit|v|подавать, представлять|Please *submit* your application before Friday.
+supervise|v|надзирать, руководить|She *supervises* a team of twelve technicians.
+supervisor|n|руководитель, начальник смены|Talk to your *supervisor* if you have a problem.
+take on|phr v|брать на себя; нанимать|I can't *take on* any more work this month.
+teamwork|n|командная работа|Good *teamwork* is essential in an emergency room.
+temporary|adj|временный|He took a *temporary* job over the summer.
+trade union|n|профсоюз|Most of the workers belong to a *trade union*.
+trainee|n|стажёр, практикант|The *trainee* shadowed a senior accountant for a week.
+transfer|v|переводить (на другую работу/место)|She was *transferred* to the Paris office.
+turnover|n|оборот; текучесть кадров|High staff *turnover* is costing the company money.
+unemployment|n|безработица|*Unemployment* rose sharply during the recession.
+vacancy|n|вакансия|There is a *vacancy* for a sales assistant.
+workforce|n|рабочая сила, персонал|The company has a *workforce* of about 3,000 people.
+workload|n|объём работы, нагрузка|My *workload* has doubled since Jim left.
+workplace|n|рабочее место|Safety in the *workplace* is everybody's responsibility.
+work-life balance|phr|баланс между работой и личной жизнью|Flexible hours help employees keep a good *work-life balance*.
+ambitious|adj|амбициозный, честолюбивый|He is an *ambitious* young lawyer who wants to make partner.
+consultant|n|консультант|A management *consultant* advised us on cutting costs.
+delegate|v|делегировать|A good manager knows how to *delegate* tasks.
+dedicated|adj|преданный делу, самоотверженный|She is a *dedicated* teacher who often works late.
+commitment|n|приверженность; обязательство|His *commitment* to the project impressed everyone.
+enterprise|n|предприятие; предприимчивость|The government supports small *enterprises* with tax breaks.
+freelancer|n|фрилансер|As a *freelancer*, she chooses her own clients.
+bonus|n|премия, бонус|Everyone received a Christmas *bonus*.

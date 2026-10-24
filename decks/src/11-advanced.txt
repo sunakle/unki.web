@@ -1,0 +1,124 @@
+#level=C1
+#theme=характер, оценка, фразовые глаголы и выражения
+abrupt|adj|внезапный, резкий|The meeting came to an *abrupt* end.
+adamant|adj|непреклонный|She was *adamant* that she would not go.
+arduous|adj|трудный, изнурительный|They made an *arduous* journey across the mountains.
+astute|adj|проницательный|He's an *astute* businessman.
+austere|adj|суровый, аскетичный|The monks lived an *austere* life.
+benevolent|adj|доброжелательный|A *benevolent* donor paid for the new library.
+blunt|adj|прямолинейный, резкий|She's very *blunt* and says what she thinks.
+candid|adj|откровенный|He gave a *candid* account of his failures.
+compassionate|adj|сострадательный|She is a kind and *compassionate* nurse.
+conspicuous|adj|заметный, бросающийся в глаза|He felt *conspicuous* in his bright red coat.
+cunning|adj|хитрый|The fox is a *cunning* animal.
+daunting|adj|пугающий, внушающий робость|Starting a new job can be *daunting*.
+diligent|adj|усердный|She is a *diligent* student.
+dubious|adj|сомнительный|The company has a *dubious* reputation.
+eloquent|adj|красноречивый|He gave an *eloquent* speech.
+elusive|adj|неуловимый|Success remained *elusive*.
+exhaustive|adj|исчерпывающий|The police made an *exhaustive* search of the area.
+frugal|adj|бережливый|She lived a *frugal* life.
+haphazard|adj|беспорядочный|The books were arranged in a *haphazard* way.
+impartial|adj|беспристрастный|A judge must be *impartial*.
+impeccable|adj|безупречный|She speaks *impeccable* English.
+indifferent|adj|равнодушный|He seemed *indifferent* to our problems.
+insatiable|adj|ненасытный|She has an *insatiable* appetite for knowledge.
+lavish|adj|роскошный, щедрый|They threw a *lavish* party.
+lenient|adj|снисходительный, мягкий|The judge was *lenient* with the young offender.
+meticulous|adj|скрупулёзный|He is *meticulous* about his work.
+mundane|adj|будничный, прозаичный|She wanted to escape her *mundane* routine.
+notorious|adj|печально известный|The area is *notorious* for its high crime rate.
+oblivious|adj|не замечающий|He was *oblivious* to the danger.
+ominous|adj|зловещий|*Ominous* dark clouds gathered overhead.
+pragmatic|adj|прагматичный|She took a *pragmatic* approach to the problem.
+pristine|adj|нетронутый, безупречный|The beach was *pristine* and empty.
+prudent|adj|благоразумный|It would be *prudent* to save some money.
+reckless|adj|безрассудный|*Reckless* driving causes many accidents.
+resilient|adj|стойкий, жизнестойкий|Children are often remarkably *resilient*.
+rigorous|adj|строгий, тщательный|All products undergo *rigorous* testing.
+ruthless|adj|безжалостный|He was a *ruthless* dictator.
+spontaneous|adj|спонтанный|It was a *spontaneous* decision.
+stagnant|adj|застойный|The economy has been *stagnant* for years.
+stringent|adj|строгий (о правилах)|The country has *stringent* gun laws.
+superficial|adj|поверхностный|His knowledge of the subject is rather *superficial*.
+tedious|adj|скучный, утомительный|The work was *tedious* and repetitive.
+tenacious|adj|упорный|She is a *tenacious* negotiator.
+ubiquitous|adj|вездесущий|Smartphones are now *ubiquitous*.
+unprecedented|adj|беспрецедентный|The crisis is *unprecedented* in modern times.
+unwavering|adj|непоколебимый|She showed *unwavering* loyalty.
+versatile|adj|разносторонний|He's a *versatile* actor.
+vivid|adj|яркий, живой|I have *vivid* memories of that summer.
+wholesome|adj|здоровый, полезный|She cooks *wholesome* meals.
+bring about|phr v|вызывать, приводить к|The reforms *brought about* major changes.
+carry out|phr v|выполнять, проводить|Researchers *carried out* a survey.
+come across|phr v|наткнуться|I *came across* an old photo.
+come up with|phr v|придумать|She *came up with* a brilliant idea.
+cut down on|phr v|сокращать (потребление)|You should *cut down on* sugar.
+deal with|phr v|иметь дело, справляться|How do you *deal with* stress?
+fall apart|phr v|разваливаться|Their marriage *fell apart*.
+fall short of|phr v|не дотягивать до|The results *fell short of* our expectations.
+figure out|phr v|разобраться|I can't *figure out* how it works.
+get away with|phr v|уйти от наказания|He *got away with* cheating.
+get by|phr v|перебиваться|She earns just enough to *get by*.
+give in|phr v|сдаваться, уступать|He finally *gave in* and let us go.
+go through|phr v|переживать, проходить через|She is *going through* a difficult time.
+hold back|phr v|сдерживать|She couldn't *hold back* her tears.
+look into|phr v|расследовать, изучать|Police are *looking into* the matter.
+look up to|phr v|уважать, равняться на|He *looks up to* his older brother.
+make up for|phr v|компенсировать|He bought flowers to *make up for* being late.
+point out|phr v|указывать, обращать внимание|She *pointed out* a mistake in my report.
+pull off|phr v|провернуть, добиться успеха|Nobody thought he could *pull off* the deal.
+put off|phr v|откладывать|Don't *put off* until tomorrow what you can do today.
+put up with|phr v|мириться с|I can't *put up with* the noise.
+run out of|phr v|исчерпать|We've *run out of* milk.
+set up|phr v|основывать, создавать|They *set up* a charity.
+stand out|phr v|выделяться|Her red coat made her *stand out*.
+stand up for|phr v|отстаивать|You should *stand up for* your rights.
+turn down|phr v|отклонять|He *turned down* the job offer.
+turn out|phr v|оказываться|The party *turned out* to be a disaster.
+wear off|phr v|проходить (об эффекте)|The effect of the drug will *wear off* soon.
+work out|phr v|выяснить; получиться|Things *worked out* well in the end.
+back up|phr v|поддерживать; делать резервную копию|The evidence *backs up* her story.
+break down|phr v|ломаться; разбивать на части|Our car *broke down* on the motorway.
+break out|phr v|вспыхивать|War *broke out* in 1939.
+call off|phr v|отменять|The match was *called off* because of rain.
+catch up with|phr v|догнать|I need to *catch up with* my emails.
+clamp down on|phr v|пресекать, принимать жёсткие меры|The government plans to *clamp down on* tax evasion.
+come down with|phr v|заболеть|I think I'm *coming down with* flu.
+dwell on|phr v|зацикливаться|Don't *dwell on* the past.
+fall for|phr v|поддаться (обману); влюбиться|He *fell for* the trick.
+get over|phr v|оправиться|It took her months to *get over* the illness.
+hand in|phr v|сдавать|Please *hand in* your essays by Friday.
+live up to|phr v|оправдывать (ожидания)|The film didn't *live up to* the hype.
+phase out|phr v|постепенно прекращать|The country plans to *phase out* coal.
+rule out|phr v|исключать|Doctors have *ruled out* cancer.
+sum up|phr v|подводить итог|To *sum up*, the project was a success.
+take after|phr v|походить на (родителя)|She *takes after* her mother.
+give rise to|phr|вызывать, порождать|The poor harvest *gave rise to* food shortages.
+in the long run|phr|в долгосрочной перспективе|Saving money pays off *in the long run*.
+on the whole|phr|в целом|*On the whole*, I think it was a good decision.
+by and large|phr|в основном|*By and large*, people were happy with the changes.
+at stake|phr|на карту поставлено|Thousands of jobs are *at stake*.
+in the pipeline|phr|в разработке|There are several new products *in the pipeline*.
+in the wake of|phr|вслед за, в результате|Security was increased *in the wake of* the attack.
+to some extent|phr|до некоторой степени|*To some extent*, I agree with you.
+for the time being|phr|на данный момент|*For the time being*, we'll stay here.
+on the verge of|phr|на грани|The company is *on the verge of* collapse.
+with regard to|phr|что касается|*With regard to* your question, I'll call you tomorrow.
+a blessing in disguise|phr|нет худа без добра|Losing that job was *a blessing in disguise*.
+come to terms with|phr|смириться с|He is trying to *come to terms with* his loss.
+take for granted|phr|принимать как должное|We often *take* good health *for granted*.
+beat around the bush|phr|ходить вокруг да около|Stop *beating around the bush* and tell me.
+break the ice|phr|разрядить обстановку|He told a joke to *break the ice*.
+get the hang of|phr|освоиться, наловчиться|You'll soon *get the hang of* it.
+hit the nail on the head|phr|попасть в точку|You *hit the nail on the head* with that comment.
+on the spur of the moment|phr|под влиянием момента|We booked the trip *on the spur of the moment*.
+once in a blue moon|phr|очень редко|We see them *once in a blue moon*.
+the tip of the iceberg|phr|верхушка айсберга|These complaints are just *the tip of the iceberg*.
+under the weather|phr|нездоровится|I'm feeling a bit *under the weather*.
+out of the blue|phr|как гром среди ясного неба|She called me *out of the blue*.
+pros and cons|phr|плюсы и минусы|Let's weigh up the *pros and cons*.
+take into account|phr|принимать во внимание|We must *take* all the costs *into account*.
+in a nutshell|phr|в двух словах|*In a nutshell*, we need more money.
+at the expense of|phr|за счёт, в ущерб|He succeeded *at the expense of* his health.
+in the face of|phr|перед лицом|She stayed calm *in the face of* danger.

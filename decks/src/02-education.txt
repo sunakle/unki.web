@@ -1,0 +1,89 @@
+#level=B2
+#theme=образование
+acquire|v|приобретать, усваивать|Children *acquire* language remarkably quickly.
+academic|adj|академический, учебный|The school has a strong *academic* reputation.
+assess|v|оценивать|Teachers *assess* students through exams and projects.
+assessment|n|оценка, аттестация|Continuous *assessment* counts for forty per cent of the final mark.
+assignment|n|задание, курсовая работа|The *assignment* is due next Monday.
+breakthrough|n|прорыв|Scientists have made a major *breakthrough* in cancer research.
+campus|n|кампус, территория университета|Most first-year students live on *campus*.
+coursework|n|курсовая работа, текущие задания|Her *coursework* was marked higher than her exam.
+curriculum|n|учебный план, программа|Art is part of the national *curriculum*.
+diploma|n|диплом|He earned a *diploma* in hotel management.
+discipline|n|дисциплина (область знаний); самодисциплина|She is an expert in the *discipline* of linguistics.
+dissertation|n|диссертация, дипломная работа|He is writing his *dissertation* on medieval trade.
+distinguish|v|различать|It is hard to *distinguish* the twins from each other.
+draft|n|черновик|I'll send you a first *draft* of the report tomorrow.
+enrol|v|записываться, зачислять|She *enrolled* on an evening course in photography.
+evaluate|v|оценивать, анализировать|We need to *evaluate* the results before we decide.
+evidence|n|доказательства, данные|There is no scientific *evidence* for that claim.
+examine|v|исследовать, осматривать; экзаменовать|Doctors *examined* the patient for signs of infection.
+hypothesis|n|гипотеза|The experiment failed to support their *hypothesis*.
+faculty|n|факультет; преподавательский состав|She teaches in the *faculty* of law.
+feedback|n|обратная связь, отзыв|The teacher gave detailed *feedback* on my essay.
+fluent|adj|беглый, свободно говорящий|After two years in Spain, he is *fluent* in Spanish.
+graduate|v|заканчивать (университет)|He *graduated* from Oxford in 2019 with a degree in history.
+grant|n|грант, стипендия|The research was funded by a government *grant*.
+illiterate|adj|неграмотный|Millions of adults around the world are still *illiterate*.
+insight|n|понимание, проницательность|The book gives a fascinating *insight* into life in the 1920s.
+instructor|n|инструктор, преподаватель|Our driving *instructor* was very patient.
+investigate|v|расследовать, исследовать|Police are *investigating* the cause of the fire.
+journal|n|научный журнал|Her paper appeared in a leading medical *journal*.
+lecturer|n|преподаватель вуза, лектор|He is a *lecturer* in economics at the university.
+literacy|n|грамотность|The campaign aims to improve adult *literacy*.
+major|v|специализироваться (в вузе)|She *majored* in biology and minored in chemistry.
+memorise|v|запоминать, заучивать|Actors must *memorise* hundreds of lines.
+methodology|n|методология|The study was criticised for its flawed *methodology*.
+module|n|модуль, учебный курс|I chose a *module* on modern European history.
+observation|n|наблюдение|Careful *observation* is the basis of good science.
+overcome|v|преодолевать|She *overcame* her fear of public speaking.
+peer|n|ровесник, коллега|Teenagers are strongly influenced by their *peers*.
+plagiarism|n|плагиат|Students who are caught committing *plagiarism* may be expelled.
+postgraduate|n|аспирант, магистрант|Many *postgraduates* work as teaching assistants.
+prerequisite|n|необходимое условие|Basic maths is a *prerequisite* for this course.
+proof|n|доказательство|You need *proof* of address to open an account.
+publish|v|публиковать|The university press *publishes* about fifty books a year.
+quote|v|цитировать|The author *quoted* several lines from the poem.
+reasoning|n|рассуждение, аргументация|I don't follow your *reasoning* at all.
+reinforce|v|укреплять, закреплять|Practice exercises *reinforce* what you learn in class.
+researcher|n|исследователь|*Researchers* have discovered a new species of frog.
+resource|n|ресурс, источник|The library has excellent online *resources*.
+revise|v|повторять материал (к экзамену); пересматривать|I need to *revise* for my chemistry test.
+scholar|n|учёный, исследователь|She is a respected *scholar* of ancient history.
+scholarship|n|стипендия; учёность|He won a *scholarship* to study abroad.
+seminar|n|семинар|The professor led a *seminar* on climate policy.
+specialise|v|специализироваться|The clinic *specialises* in sports injuries.
+statistics|n|статистика|The *statistics* show a steady rise in house prices.
+summarise|v|резюмировать, кратко излагать|Can you *summarise* the main points of the article?
+syllabus|n|программа курса|The *syllabus* covers three centuries of English literature.
+tackle|v|браться за (проблему), решать|The government plans to *tackle* youth unemployment.
+theory|n|теория|Einstein's *theory* changed our view of the universe.
+thesis|n|диссертация; тезис|His doctoral *thesis* was published as a book.
+tuition|n|обучение; плата за обучение|*Tuition* fees have risen again this year.
+tutor|n|репетитор, куратор|She works as a private maths *tutor*.
+undergraduate|n|студент-бакалавр|*Undergraduates* usually study for three or four years.
+vocational|adj|профессиональный (об обучении)|The college offers *vocational* training in plumbing and carpentry.
+criterion|n|критерий|The main *criterion* for selection is relevant experience.
+data|n|данные|We collected *data* from over two thousand households.
+findings|n|выводы, результаты исследования|The study's *findings* surprised many experts.
+in-depth|adj|глубокий, подробный|The magazine published an *in-depth* analysis of the crisis.
+interpret|v|толковать, интерпретировать|Different people may *interpret* the poem differently.
+literature|n|литература; научные труды|There is a vast *literature* on the subject of memory.
+outline|v|излагать вкратце, набросать|She *outlined* her plan in a short presentation.
+phenomenon|n|явление|Global warming is a worldwide *phenomenon*.
+principle|n|принцип|He refused to lie on *principle*.
+refer to|phr v|ссылаться на; иметь в виду|The report *refers to* several earlier studies.
+sample|n|образец, выборка|They tested a *sample* of five hundred patients.
+survey|n|опрос, обследование|A recent *survey* found that most people prefer working at home.
+term|n|семестр; термин|The summer *term* starts in late April.
+bilingual|adj|двуязычный|She grew up in a *bilingual* household.
+vocabulary|n|словарный запас|Reading widely will expand your *vocabulary*.
+pronunciation|n|произношение|Her English *pronunciation* is excellent.
+proofread|v|вычитывать, корректировать|Always *proofread* your essay before handing it in.
+cite|v|ссылаться, цитировать|Remember to *cite* all your sources.
+deadline|n|крайний срок|The *deadline* for applications is the end of May.
+cram|v|зубрить|He *crammed* all night for the biology exam.
+dropout|n|бросивший учёбу|He was a university *dropout* who became a millionaire.
+mature student|phr|студент старшего возраста|She returned to university as a *mature student*.
+gifted|adj|одарённый|The school has a special programme for *gifted* children.
+remedial|adj|коррекционный, исправительный|He attends *remedial* classes to catch up in reading.

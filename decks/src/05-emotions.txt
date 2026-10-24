@@ -1,0 +1,92 @@
+#level=B2
+#theme=эмоции и отношения
+admire|v|восхищаться|I really *admire* her courage.
+affection|n|привязанность, нежность|He felt a deep *affection* for his grandmother.
+aggressive|adj|агрессивный|The dog became *aggressive* when strangers came near.
+annoyed|adj|раздражённый|She was *annoyed* that he hadn't called.
+anxiety|n|тревога, беспокойство|Exams cause a lot of *anxiety* among students.
+anxious|adj|встревоженный|He felt *anxious* about the job interview.
+arrogant|adj|высокомерный|His *arrogant* attitude made him unpopular.
+ashamed|adj|пристыженный|She felt *ashamed* of what she had said.
+attitude|n|отношение, позиция|Her positive *attitude* inspires the whole team.
+awkward|adj|неловкий; неудобный|There was an *awkward* silence after his remark.
+betray|v|предавать|He *betrayed* his friends for money.
+bitter|adj|озлобленный; горький|She is still *bitter* about the divorce.
+blame|v|винить|Don't *blame* yourself for what happened.
+bully|n|задира|The school takes a firm stand against *bullies*.
+caring|adj|заботливый|He is a kind and *caring* father.
+charming|adj|очаровательный|Our host was a *charming* elderly gentleman.
+clumsy|adj|неуклюжий|I'm so *clumsy* — I've broken another glass.
+compassion|n|сострадание|The nurse treated every patient with *compassion*.
+confident|adj|уверенный|She felt *confident* about the presentation.
+considerate|adj|внимательный к другим|It was *considerate* of you to call ahead.
+content|adj|довольный, удовлетворённый|He seemed *content* with a simple life.
+courage|n|мужество, смелость|It took *courage* to speak out against the boss.
+cruel|adj|жестокий|It is *cruel* to keep animals in small cages.
+curious|adj|любопытный|The child was *curious* about everything.
+delighted|adj|в восторге|We are *delighted* to welcome you to our team.
+depressed|adj|подавленный, в депрессии|He felt *depressed* after losing his job.
+determined|adj|решительный, целеустремлённый|She was *determined* to win the race.
+devoted|adj|преданный|He is a *devoted* husband and father.
+disappointed|adj|разочарованный|I was *disappointed* with the results.
+disgusted|adj|испытывающий отвращение|She was *disgusted* by the smell.
+embarrassed|adj|смущённый|He felt *embarrassed* when he forgot her name.
+emotional|adj|эмоциональный|The film's ending was very *emotional*.
+envy|n|зависть|She looked at his new car with *envy*.
+fond|adj|питающий нежные чувства|I'm very *fond* of my cousin.
+frustrated|adj|раздосадованный, разочарованный|He felt *frustrated* by the lack of progress.
+furious|adj|разъярённый|She was *furious* when she saw the damage.
+generous|adj|щедрый|It was very *generous* of you to lend us the money.
+genuine|adj|искренний; подлинный|His surprise was *genuine*.
+gloomy|adj|мрачный, унылый|The weather made everyone feel *gloomy*.
+grateful|adj|благодарный|I'm *grateful* for all your help.
+grief|n|горе, скорбь|She was overcome with *grief* at her father's death.
+grumpy|adj|ворчливый, раздражительный|He's always *grumpy* in the morning.
+guilt|n|вина, чувство вины|He felt a deep sense of *guilt* about the accident.
+gullible|adj|доверчивый, легковерный|Only a *gullible* person would believe that story.
+hesitate|v|колебаться|Don't *hesitate* to ask if you need help.
+hostile|adj|враждебный|The crowd was *hostile* towards the speaker.
+humble|adj|скромный, смиренный|Despite his fame, he remained *humble*.
+humiliate|v|унижать|He felt *humiliated* when the teacher laughed at him.
+impatient|adj|нетерпеливый|The *impatient* customers began to complain.
+impulsive|adj|импульсивный|It was an *impulsive* decision that he soon regretted.
+insecure|adj|неуверенный в себе|She felt *insecure* about her appearance.
+irritated|adj|раздражённый|He was *irritated* by the constant noise.
+jealous|adj|ревнивый, завидующий|She was *jealous* of her sister's success.
+keen|adj|увлечённый, заинтересованный|He is a *keen* gardener.
+loyal|adj|верный, лояльный|He remained *loyal* to the company for thirty years.
+mature|adj|зрелый|She is very *mature* for her age.
+miserable|adj|несчастный, жалкий|I felt *miserable* in the cold, wet weather.
+modest|adj|скромный|She is *modest* about her achievements.
+moody|adj|капризный, переменчивый в настроении|My brother gets *moody* when he is tired.
+naive|adj|наивный|It was *naive* to think no one would notice.
+obsessed|adj|одержимый|He is *obsessed* with football.
+optimistic|adj|оптимистичный|I'm *optimistic* about our chances of winning.
+pessimistic|adj|пессимистичный|Don't be so *pessimistic* — things will improve.
+outgoing|adj|общительный|She is a cheerful, *outgoing* person.
+pity|n|жалость|I felt *pity* for the lost child.
+reluctant|adj|неохотный|He was *reluctant* to admit his mistake.
+resent|v|возмущаться, негодовать|She *resented* being treated like a child.
+selfish|adj|эгоистичный|It was *selfish* of him to leave without telling us.
+sensible|adj|разумный, благоразумный|It's more *sensible* to save some money.
+sensitive|adj|чувствительный, ранимый|He is very *sensitive* to criticism.
+sincere|adj|искренний|Please accept my *sincere* apologies.
+stubborn|adj|упрямый|He's too *stubborn* to ask for help.
+sympathy|n|сочувствие|We send our deepest *sympathy* to the family.
+tactful|adj|тактичный|It wasn't very *tactful* to mention his age.
+tempt|v|соблазнять|The smell of fresh bread *tempted* me into the bakery.
+tense|adj|напряжённый|The atmosphere in the room was *tense*.
+thoughtful|adj|задумчивый; внимательный|It was *thoughtful* of you to send flowers.
+trustworthy|adj|надёжный, заслуживающий доверия|She is an honest and *trustworthy* colleague.
+uneasy|adj|встревоженный, неспокойный|He felt *uneasy* about leaving the children alone.
+vain|adj|тщеславный|He's so *vain* that he checks his reflection every few minutes.
+acquaintance|n|знакомый|He is just an *acquaintance*, not a close friend.
+ally|n|союзник|She was a strong *ally* during the dispute.
+break up|phr v|расставаться|They *broke up* after three years together.
+bond|n|связь, узы|There is a strong *bond* between the twins.
+get along|phr v|ладить|I *get along* well with my new flatmates.
+rival|n|соперник|The two companies are bitter *rivals*.
+sibling|n|брат или сестра|My *sibling* and I fought a lot as kids.
+spouse|n|супруг, супруга|Employees may bring their *spouse* to the party.
+tease|v|дразнить|The older boys *teased* him about his glasses.
+rely on|phr v|полагаться на|You can always *rely on* her to help.

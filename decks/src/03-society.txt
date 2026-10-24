@@ -1,0 +1,90 @@
+#level=B2
+#theme=общество
+abolish|v|отменять, упразднять|Slavery was *abolished* in Britain in 1833.
+administration|n|администрация; управление|The new *administration* promised to cut taxes.
+appeal|v|обжаловать; обращаться с призывом|He plans to *appeal* against the court's decision.
+arrest|v|арестовывать|Police *arrested* three men outside the bank.
+assault|n|нападение, избиение|He was charged with *assault* after the fight.
+authority|n|власть; орган власти; авторитет|The local *authority* is responsible for refuse collection.
+ban|v|запрещать|The city has *banned* smoking in all public parks.
+bribe|n|взятка|The official was caught accepting a *bribe*.
+campaign|n|кампания|The charity launched a *campaign* against child poverty.
+candidate|n|кандидат|Three *candidates* are standing in the election.
+citizen|n|гражданин|Every *citizen* has the right to vote.
+civil|adj|гражданский|The *civil* rights movement fought racial segregation.
+civilian|n|гражданское лицо|Many *civilians* were injured in the attack.
+clash|n|столкновение, конфликт|There was a *clash* between protesters and police.
+conflict|n|конфликт|The *conflict* between the two countries lasted ten years.
+conviction|n|осуждение; убеждение|He has a previous *conviction* for fraud.
+criminal|n|преступник|The police finally caught the *criminal*.
+curfew|n|комендантский час|A *curfew* was imposed after the riots.
+custody|n|заключение под стражей; опека|The suspect is being held in police *custody*.
+debate|n|дебаты, обсуждение|There has been a heated *debate* about immigration.
+democracy|n|демократия|The country became a *democracy* in 1990.
+demonstrate|v|демонстрировать; участвовать в демонстрации|Thousands *demonstrated* against the new law.
+deport|v|депортировать|Illegal immigrants may be *deported*.
+discrimination|n|дискриминация|Laws now protect workers from *discrimination*.
+dispute|n|спор, конфликт|The *dispute* over land lasted for decades.
+diverse|adj|разнообразный|London is a very *diverse* city.
+diversity|n|разнообразие|The school celebrates cultural *diversity*.
+elect|v|избирать|She was *elected* mayor by a large majority.
+embassy|n|посольство|He went to the *embassy* to renew his visa.
+enforce|v|обеспечивать соблюдение, принуждать к исполнению|The police *enforce* the law.
+equality|n|равенство|The movement campaigns for gender *equality*.
+ethnic|adj|этнический|The country has many *ethnic* minorities.
+evacuate|v|эвакуировать|Residents were *evacuated* before the flood.
+exile|n|изгнание|The former president lived in *exile* for ten years.
+foster|v|способствовать, развивать|The programme aims to *foster* cooperation between schools.
+guilty|adj|виновный|The jury found him *guilty* of theft.
+hostage|n|заложник|The *hostages* were released after three days.
+immigrant|n|иммигрант|Her parents were *immigrants* from Poland.
+immigration|n|иммиграция|The government wants to reduce *immigration*.
+inequality|n|неравенство|Income *inequality* has grown in recent years.
+innocent|adj|невиновный|He claims he is *innocent* of the crime.
+institution|n|учреждение, институт|The bank is one of the oldest financial *institutions* in Europe.
+jury|n|присяжные|The *jury* took two days to reach a verdict.
+justice|n|справедливость; правосудие|The families are demanding *justice* for the victims.
+kidnap|v|похищать|The businessman was *kidnapped* on his way to work.
+legislation|n|законодательство, законы|New *legislation* will protect the rights of tenants.
+majority|n|большинство|The *majority* of voters supported the change.
+minority|n|меньшинство|Several ethnic *minorities* live in this region.
+minister|n|министр|The *minister* resigned after the scandal.
+mutual|adj|взаимный, общий|The feeling is *mutual*.
+oppose|v|выступать против|Many local people *oppose* the new road.
+parliament|n|парламент|*Parliament* will vote on the bill next week.
+patrol|v|патрулировать|Police officers *patrol* the area at night.
+penalty|n|наказание, штраф|The *penalty* for speeding is a heavy fine.
+poverty|n|бедность|Millions of children still live in *poverty*.
+prejudice|n|предубеждение, предрассудок|He faced *prejudice* because of his accent.
+prohibit|v|запрещать|The law *prohibits* smoking in restaurants.
+protest|n|протест|Students staged a *protest* against higher fees.
+punish|v|наказывать|Children should not be *punished* for telling the truth.
+racism|n|расизм|The club has a zero-tolerance policy on *racism*.
+rebel|n|повстанец, бунтарь|The *rebels* took control of the capital.
+reform|n|реформа|The government promised *reform* of the health system.
+refugee|n|беженец|Thousands of *refugees* crossed the border.
+regime|n|режим|The *regime* was overthrown after a popular uprising.
+regulation|n|правило, постановление|Safety *regulations* require all workers to wear helmets.
+rescue|v|спасать|Firefighters *rescued* two children from the burning house.
+riot|n|беспорядки, бунт|Several people were injured in the *riots*.
+ruling|n|решение (суда)|The court's *ruling* surprised everyone.
+sentence|v|приговаривать|The judge *sentenced* him to ten years in prison.
+suspect|n|подозреваемый|Police have arrested a *suspect* in connection with the burglary.
+terrorism|n|терроризм|The fight against *terrorism* requires international cooperation.
+treaty|n|договор (международный)|The two countries signed a peace *treaty*.
+trial|n|судебный процесс|The *trial* will begin in March.
+unrest|n|волнения, беспорядки|Political *unrest* has spread across the region.
+voter|n|избиратель|Young *voters* were crucial in the last election.
+welfare|n|благосостояние; социальное обеспечение|The country has a generous *welfare* system.
+witness|n|свидетель|A *witness* saw the thief running away.
+charity|n|благотворительность; благотворительная организация|She raised money for a children's *charity*.
+community|n|сообщество, община|The local *community* came together to rebuild the school.
+donate|v|жертвовать, передавать безвозмездно|He *donated* a large sum to the hospital.
+homeless|adj|бездомный|The shelter provides food for *homeless* people.
+neighbourhood|n|район, соседство|It's a quiet *neighbourhood* with lots of trees.
+tradition|n|традиция|Eating turkey at Christmas is an old *tradition*.
+urban|adj|городской|*Urban* areas are growing faster than rural ones.
+rural|adj|сельский|Life in *rural* areas can feel isolated.
+volunteer|n|доброволец|The festival relies on hundreds of *volunteers*.
+generation|n|поколение|The older *generation* often disagrees with the young.
+stereotype|n|стереотип|The film challenges common *stereotypes* about teenagers.

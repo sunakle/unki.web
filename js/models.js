@@ -1,5 +1,6 @@
 // Типы записей, шаблоны карточек и их отрисовка (как в Anki).
 // Модуль не зависит от хранилища: только чистые функции.
+import { ttsButtonHtml } from './tts.js';
 
 export const BASE_CSS = `.card {
   font-family: arial;
@@ -223,7 +224,8 @@ function renderField(spec, ctx) {
     return `<center>${typeDiff(ctx.typed || '', expected)}</center>`;
   }
   for (const f of [...filters].reverse()) {
-    if (f === 'cloze') val = clozeRender(val, ctx.clozeOrd, ctx.side);
+    if (/^tts(\s|$)/i.test(f)) val = ttsButtonHtml(stripHtml(val), f, esc); // {{tts en_US:Поле}} — кнопка озвучки
+    else if (f === 'cloze') val = clozeRender(val, ctx.clozeOrd, ctx.side);
     else if (f === 'text') val = esc(stripHtml(val));
     else if (f === 'hint') {
       if (isEmptyField(val)) return '';

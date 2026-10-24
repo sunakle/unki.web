@@ -53,6 +53,7 @@ const ICONS = {
   min: 'M5 19h14v-2H5z',
   eraser: 'M16.2 3.6a2 2 0 0 1 2.8 0l1.4 1.4a2 2 0 0 1 0 2.8L11 17.2H7.4L3.6 13.4a2 2 0 0 1 0-2.8l12.6-7ZM9 19h12v2H9z',
   check: 'M9 16.2 4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4z',
+  speaker: 'M3 9v6h4l5 5V4L7 9H3Zm13.5 3A4.5 4.5 0 0 0 14 7.97v8.05A4.5 4.5 0 0 0 16.5 12ZM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77Z',
 };
 export function icon(name, size = 16) {
   const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
